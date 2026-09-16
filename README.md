@@ -1,8 +1,6 @@
-## Hi there 👋
+## Angela Ximena Calderon Vilca 👋
 
-<!--
-**ximenacalderon2017-cpu/ximenacalderon2017-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+futura desarrolladora de programacioon      futurista del IA
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
