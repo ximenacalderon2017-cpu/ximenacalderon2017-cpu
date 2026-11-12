@@ -1,52 +1,70 @@
-# ✦ Angela Ximena Calderon Vilca
+# 👩🏻‍💻 ANGELA XIMENA CALDERON VILCA
 
-### Software Developer in Progress · DAM Student
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1000&color=B98BD4&center=true&vCenter=true&width=650&lines=Welcome+to+my+creative+space.;Learning+to+build+meaningful+software.;Ideas%2C+creativity+%26+technology." />
-</p>
+### `Software Developer in Progress | DAM Student`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-Valencia%2C%20Spain-B98BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/FOCUS-Software%20Development-D8A6C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-AE9CCB?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code." alt="Typing SVG" />
 </p>
 
 ---
 
-## ✧ About Me
+## 🚀 ABOUT ME
 
-Hello! I'm **Angela**, a Multiplatform Application Development (DAM) student based in Valencia, Spain.
+Hello! I'm Angela, a student of **Multiplatform Application Development (DAM)** based in Valencia, Spain.
 
-I'm interested in the intersection of technology, creativity and problem-solving. I enjoy exploring new tools, developing applications and turning ideas into practical digital experiences.
-
-I believe that every project is an opportunity to learn something new and improve as a developer.
+I'm passionate about technology, programming and creating digital solutions. I enjoy learning new technologies, experimenting with code and transforming ideas into real projects.
 
 - 🎓 Currently studying Multiplatform Application Development.
-- 💻 Exploring software and web development.
-- 🧠 Interested in Artificial Intelligence and emerging technologies.
-- ✨ Developing personal projects and academic applications.
-- 🌱 Always learning, experimenting and growing.
+- 💻 Learning software and web development.
+- 🧠 Exploring Artificial Intelligence and new technologies.
+- 🚀 Developing personal and academic projects.
+- 🎯 My goal is to become a versatile software developer.
 
 ---
 
-## ✧ Technical Skills
+## 🛠️ TECHNOLOGIES & TOOLS
 
-**Languages & Development**
+**Languages and technologies I'm learning:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=light" />
-</p>
-
-**Tools & Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## ✧ Selected Projects
+## 💡 FEATURED PROJECTS
 
-### ♡ ChargeUp
-A student productivity concept designed around energy
+### ⚡ ChargeUp
+A student productivity concept focused on energy, concentration and mental workload rather than traditional schedules.
+
+### 💻 Academic Projects
+A collection of exercises, applications and programming projects developed during my DAM studies.
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ximenacalderon2017-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximenacalderon2017-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🌱 CURRENTLY FOCUSING ON
+
+- Improving my programming skills.
+- Learning object-oriented programming.
+- Building applications with JavaScript and Python.
+- Understanding databases and software architecture.
+- Creating projects that solve real problems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" />
+</p>
+
+<p align="center">
+  **"Great things are built one line of code at a time."**
+</p>
